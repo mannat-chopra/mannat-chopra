@@ -2,6 +2,7 @@
 <h3 align="center">A passionate WordPress Web Developer from India</h3>
 
 - 🔭 I’m currently working on [ittechcert](https://ittechcert.com/)
+- 🔭 Some Previous Projects [glshows](https://www.glshows.com/) , [wealthyweb](https://www.wealthyweb.online/)
 
 - 🌱 I’m currently learning **Node JS.**
 
