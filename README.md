@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mannat Chopra</h1>
-<h3 align="center">A passionate WordPress Web Developer from India</h3>
+<h3 align="center">A passionate Front-End Developer from India</h3>
 
 - 🔭 I’m currently working on [ittechcert](https://ittechcert.com/)
 - 🔭 Some Previous Projects [glshows](https://www.glshows.com/) , [wealthyweb](https://www.wealthyweb.online/)
 
-- 🌱 I’m currently learning **Node JS.**
+- 🌱 I’m currently learning **React JavaScript.**
 
 - 📫 How to reach me **mannatchopra1802@gmail.com**
 
